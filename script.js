@@ -1,10 +1,9 @@
 const div = document.createElement("div");
 div.classList.add("content")
-div.setAttribute("style", "background:green; color:white; width:500px;height:200px;margin-left:450px;")
 
 const count = document.createElement("h1")
 count.classList.add("header")
-count.setAttribute("style","width:100px;font-size:2.5rem;text-align:center; margin-left:170px;padding-top:40px")
+
 
 
 
